@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,CODECS="avc1.42001e,mp4a.40.2",RESOLUTION=844x464
+https://stream-01.ix7.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYr1gIFScTEsHoRhjM5zzTJaUJMTlpYDf0Cw4igl7MVs1)/dm/3/x21oo10/s/live-2.m3u8#cell=lcore
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,CODECS="avc1.42001e,mp4a.40.2",RESOLUTION=844x464
+https://stream-10.dc3.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYr1gIFScTEsHoRhjM5zzTJaUJMTlpYDf0Cw4igl7MVs1)/dm/3/x21oo10/s/live-2.m3u8#cell=lcore
