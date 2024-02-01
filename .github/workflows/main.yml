@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '10 */1 * * *' # Runs in every 3 hours
+    - cron: '25 */1 * * *' # Runs in every 3 hours
   pull_request:
       branches:
         - main
