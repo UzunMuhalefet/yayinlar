@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '0 */1 * * *' # Runs in every 3 hours
+    - cron: '5 */1 * * *' # Runs in every 3 hours
 
 jobs:
   build:
@@ -11,10 +11,13 @@ jobs:
       - uses: actions/checkout@v4
       - name: Set up Python
         uses: actions/setup-python@v4
+        with:
+            python-version: '3.x' 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          
+          pip3 install -r requirements.txt
       - name: execute py script 
         run: python main.py config.json
       - name: commit and push files
