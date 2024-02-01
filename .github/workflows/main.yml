@@ -1,0 +1,29 @@
+name: run main.py
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Runs in every 3 hours
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps: 
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: execute py script 
+        run: python main.py config.json
+      - name: commit and push files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "updated streams"
+          git push
+
+        
+        
