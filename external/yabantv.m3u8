@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF: BANDWIDTH=800000
+#EXT-X-STREAM-INF:BANDWIDTH=800000
 #EXTVLCOPT:http-referrer=https://skystar-2.com/
 https://qqef.cf/live/yaban.m3u8
