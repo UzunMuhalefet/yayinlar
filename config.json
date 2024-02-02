@@ -261,6 +261,11 @@
           "url": "https://www.youtube.com/@semerkandtv/live"
         },
         {
+          "name": "Serhat TV",
+          "slug": "serhattv",
+          "url": "https://www.twitch.tv/serhattvlive"
+        },
+        {
           "name": "Show Max",
           "slug": "showmax",
           "url": "http://showmax.com.tr/canliyayin"
