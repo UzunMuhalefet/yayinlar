@@ -107,6 +107,7 @@ def main():
             best_file_path = os.path.join(best_folder, channel["slug"] + ".m3u8")
             if os.path.isfile(master_file_path):
                 os.remove(master_file_path)
+            if os.path.isfile(best_file_path):
                 os.remove(best_file_path)
 
 if __name__=="__main__": 
