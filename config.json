@@ -404,6 +404,36 @@
       "name": "Zemheri",
       "slug": "zemheri",
       "url": "https://www.youtube.com/@zemheridizi/live"
+    },
+    {
+      "name": "Kızılcık Şerbeti",
+      "slug": "kizilcikserbeti",
+      "url": "https://www.youtube.com/@kizilcikserbetidizi/live"
+    },
+    {
+      "name": "Göç Zamanı",
+      "slug": "goczamani",
+      "url": "https://www.youtube.com/@GocZamani/live"
+    },
+    {
+      "name": "Star TV",
+      "slug": "startv",
+      "url": "https://www.youtube.com/@StarTVResmi/live"
+    },
+    {
+      "name": "Earthcam - Original",
+      "slug": "earthcam_original",
+      "url": "https://www.youtube.com/watch?v=HfgIFGbdGJ0"
+    },
+    {
+      "name": "Earthcam - Showcase",
+      "slug": "earthcam_showcase",
+      "url": "https://www.youtube.com/watch?v=buAV1t5-23w"
+    },
+    {
+      "name": "Earthcam - White House",
+      "slug": "earthcam_whouse",
+      "url": "https://www.youtube.com/watch?v=mzCc5yX9soY"
     }
   ]
 }
