@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="",RESOLUTION=1280x720
-https://foxtv.daioncdn.net/foxtv/foxtv_720p.m3u8?ex=1707318438&st=8Hi1VRWO21CqxwL7gI061Q&sid=64v71qr10ria&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&ce=3
+https://foxtv.daioncdn.net/foxtv/foxtv_720p.m3u8?ex=1707325638&st=WppGdyPUV6QjJcRcF77fqg&sid=64vhp3vjbt1q&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&ce=3
 #EXT-X-STREAM-INF:BANDWIDTH=800000,CODECS="",RESOLUTION=854x480
-https://foxtv.daioncdn.net/foxtv/foxtv_480p.m3u8?ex=1707318438&st=8Hi1VRWO21CqxwL7gI061Q&sid=64v71qr10ria&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&ce=3
+https://foxtv.daioncdn.net/foxtv/foxtv_480p.m3u8?ex=1707325638&st=WppGdyPUV6QjJcRcF77fqg&sid=64vhp3vjbt1q&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&ce=3
 #EXT-X-STREAM-INF:BANDWIDTH=550000,CODECS="",RESOLUTION=640x360
-https://foxtv.daioncdn.net/foxtv/foxtv_360p.m3u8?ex=1707318438&st=8Hi1VRWO21CqxwL7gI061Q&sid=64v71qr10ria&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&ce=3
+https://foxtv.daioncdn.net/foxtv/foxtv_360p.m3u8?ex=1707325638&st=WppGdyPUV6QjJcRcF77fqg&sid=64vhp3vjbt1q&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&ce=3
