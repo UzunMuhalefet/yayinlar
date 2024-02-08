@@ -434,6 +434,46 @@
             "name": "EarthTV - White House",
             "slug": "earthtv_whouse",
             "url": "https://www.youtube.com/watch?v=mzCc5yX9soY"
+        },
+        {
+            "name": "TV Kayseri",
+            "slug": "tvkayseri",
+            "url": "https://www.twitch.tv/tvkayseri"
+        },
+        {
+            "name": "Konuşam Tom",
+            "slug": "konusantom",
+            "url": "https://www.youtube.com/@TalkingFriendsTR/live"
+        },
+        {
+            "name": "Mutlu Çocuk",
+            "slug": "mutlucocuk",
+            "url": "https://www.youtube.com/@MutluCocuk/live"
+        },
+        {
+            "name": "Küçük Kamyon Leo",
+            "slug": "kucukkamyonleo",
+            "url": "https://www.youtube.com/@KucukKamyonLeo/live"
+        },
+        {
+            "name": "Kukuli",
+            "slug": "kukuli",
+            "url": "https://www.youtube.com/@Kukuli/live"
+        },
+        {
+            "name": "Kukuli Şarkılar",
+            "slug": "kukulisarkilar",
+            "url": "https://www.youtube.com/@KukuliSarkilar/live"
+        },
+        {
+            "name": "Furkiş TV",
+            "slug": "furkistv",
+            "url": "https://www.youtube.com/@FurkisTV/live"
+        },
+        {
+            "name": "Cumburlop TV",
+            "slug": "cumburloptv",
+            "url": "https://www.youtube.com/@CumburlopTV/live"
         }
     ]
 }
