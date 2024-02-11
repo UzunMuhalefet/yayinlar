@@ -1,0 +1,289 @@
+{
+    "output": {
+        "folder": "cameras",
+        "bestFolder": "best",
+        "masterFolder": ""
+    },
+    "channels": [
+        {
+            "name": "Adana - İmamoğlu Hastanesi",
+            "slug": "ada-imamoglu",
+            "url": "https://www.youtube.com/@SibaBilisimsibanet/live"
+        },
+        {
+            "name": "Antaya - Manavgat - Kamelya Collection",
+            "slug": "ant-kamelya",
+            "url": "https://www.youtube.com/watch?v=C1wQRYwpbmw"
+        },
+        {
+            "name": "Giresun - Bektaş Yaylası",
+            "slug": "gir-bektas",
+            "url": "https://www.youtube.com/watch?v=gWjqTxn-7e8"
+        },
+        {
+            "name": "Giresun - Bektaş Yaylası 2",
+            "slug": "gir-bektas2",
+            "url": "https://www.youtube.com/watch?v=SIZI-oCriWs"
+        },
+        {
+            "name": "Giresun - Bulancak Kovanlık Paşakonağı",
+            "slug": "gir-bulancak-kovanlik",
+            "url": "https://www.youtube.com/watch?v=RGGYIhpZxmc"
+        },
+        {
+            "name": "Giresun - Bulancak Kovanlık Paşakonağı 2",
+            "slug": "gir-bulancak-kovanlik2",
+            "url": "https://www.youtube.com/watch?v=oYPa_MNuDO0"
+        },
+        {
+            "name": "Giresun - Bulancak Meydanı 1",
+            "slug": "gir-bulancak1",
+            "url": "https://www.youtube.com/watch?v=DxbW3i3vZqE"
+        },
+        {
+            "name": "Giresun - Çifteoluk Kümbet Yaylası",
+            "slug": "gir-cifteoluk-kumbet",
+            "url": "https://www.youtube.com/watch?v=8WFiv45cN2o"
+        },
+        {
+            "name": "Giresun - Dereli Kümbet Yaylası",
+            "slug": "gir-dereli-kumbet",
+            "url": "https://www.youtube.com/watch?v=1MgBObw-4LQ"
+        },
+        {
+            "name": "Giresun - Dereli Kümbet Uzun Dere",
+            "slug": "gir-dereli-kumbet2",
+            "url": "https://www.youtube.com/watch?v=epL_sl5garU"
+        },
+        {
+            "name": "Giresun - Doğankent Harşit",
+            "slug": "gir-dogankent-harsit",
+            "url": "https://www.youtube.com/watch?v=YVnya1sGN94"
+        },
+        {
+            "name": "Giresun - Doğankent Harşit 2",
+            "slug": "gir-dogankent-harsit2",
+            "url": "https://www.youtube.com/watch?v=W0ZEa1UGbEs"
+        },
+        {
+            "name": "Giresun - Gazi Caddesi 1",
+            "slug": "gir-gazi1",
+            "url": "https://www.youtube.com/watch?v=uq2sha5s3Yk"
+        },
+        {
+            "name": "Giresun - Gazi Caddesi 2",
+            "slug": "gir-gazi2",
+            "url": "https://www.youtube.com/watch?v=DpmRVgiYcII"
+        },
+        {
+            "name": "Giresun - Giresun Kalesi",
+            "slug": "gir-giresunkalesi",
+            "url": "https://www.youtube.com/watch?v=szTRjqKTT8A"
+        },
+        {
+            "name": "Giresun - Kulakkaya Yaylası 1",
+            "slug": "gir-kulakkaya1",
+            "url": "https://www.youtube.com/watch?v=qWJqc2IFRxc"
+        },
+        {
+            "name": "Giresun - Kulakkaya Yaylası 2",
+            "slug": "gir-kulakkaya2",
+            "url": "https://www.youtube.com/watch?v=c7q87eZHD-0"
+        },
+        {
+            "name": "Giresun - Meydan Girişi",
+            "slug": "gir-meydangirisi",
+            "url": "https://www.youtube.com/watch?v=JZbgf228sME"
+        },
+        {
+            "name": "Giresun - Şebinkarahisar",
+            "slug": "gir-sebinkarahisar",
+            "url": "https://www.youtube.com/@sebinkarahisarbelediyesi9536/live"
+        },
+        {
+            "name": "Giresun - Tabaklar Caddesi",
+            "slug": "gir-tabaklar",
+            "url": "https://www.youtube.com/watch?v=aSTU9mYonpE"
+        },
+        {
+            "name": "Giresun - Yavuzkemal Merkez 1",
+            "slug": "gir-yavuzkemal",
+            "url": "https://www.youtube.com/watch?v=YWmeA7ee-Hs"
+        },
+        {
+            "name": "İzmir - Mahall Bomonti",
+            "slug": "izm-mahall",
+            "url": "https://www.youtube.com/@mahallbomontiizmir/live"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 1",
+            "slug": "riz-kabahor1",
+            "url": "https://www.youtube.com/watch?v=YEfgIHdIfOo"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 10",
+            "slug": "riz-kabahor10",
+            "url": "https://www.youtube.com/watch?v=Q51gF9uqF1w"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 11",
+            "slug": "riz-kabahor11",
+            "url": "https://www.youtube.com/watch?v=OenTNt7MFFA"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 12",
+            "slug": "riz-kabahor12",
+            "url": "https://www.youtube.com/watch?v=IgO9NOwgS7Q"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 13",
+            "slug": "riz-kabahor13",
+            "url": "https://www.youtube.com/watch?v=yeJn_-610vQ"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 14",
+            "slug": "riz-kabahor14",
+            "url": "https://www.youtube.com/watch?v=0JqbShs4GA8"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 15",
+            "slug": "riz-kabahor15",
+            "url": "https://www.youtube.com/watch?v=iN07NwGG0fg"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 16",
+            "slug": "riz-kabahor16",
+            "url": "https://www.youtube.com/watch?v=FMVuZRv9efc"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 17",
+            "slug": "riz-kabahor17",
+            "url": "https://www.youtube.com/watch?v=W0k-jBlA7a0"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 18",
+            "slug": "riz-kabahor18",
+            "url": "https://www.youtube.com/watch?v=aC6wqqB2jsk"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 19",
+            "slug": "riz-kabahor19",
+            "url": "https://www.youtube.com/watch?v=aUFvXRZqo8o"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 2",
+            "slug": "riz-kabahor2",
+            "url": "https://www.youtube.com/watch?v=qWA07wflXws"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 20",
+            "slug": "riz-kabahor20",
+            "url": "https://www.youtube.com/watch?v=YRIWgk2ATTo"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 21",
+            "slug": "riz-kabahor21",
+            "url": "https://www.youtube.com/watch?v=zRo_SmWTFX4"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 22",
+            "slug": "riz-kabahor22",
+            "url": "https://www.youtube.com/watch?v=t9FM5iwK4oc"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 23",
+            "slug": "riz-kabahor23",
+            "url": "https://www.youtube.com/watch?v=ny3iCSoxC_g"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 24",
+            "slug": "riz-kabahor24",
+            "url": "https://www.youtube.com/watch?v=E9eNR-TN_Ho"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 25",
+            "slug": "riz-kabahor25",
+            "url": "https://www.youtube.com/watch?v=T94gP1KN9UI"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 26",
+            "slug": "riz-kabahor26",
+            "url": "https://www.youtube.com/watch?v=OQpRfUZQlfA"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 27",
+            "slug": "riz-kabahor27",
+            "url": "https://www.youtube.com/watch?v=Zn4M3bbg128"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 3",
+            "slug": "riz-kabahor3",
+            "url": "https://www.youtube.com/watch?v=eXX69oGl1u0"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 4",
+            "slug": "riz-kabahor4",
+            "url": "https://www.youtube.com/watch?v=Vsjh7k0zcX0"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 5",
+            "slug": "riz-kabahor5",
+            "url": "https://www.youtube.com/watch?v=504YP7esv1M"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 6",
+            "slug": "riz-kabahor6",
+            "url": "https://www.youtube.com/watch?v=WjTH2002qIo"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 7",
+            "slug": "riz-kabahor7",
+            "url": "https://www.youtube.com/watch?v=sTUMFWCDSuA"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 8",
+            "slug": "riz-kabahor8",
+            "url": "https://www.youtube.com/watch?v=wuDYB_zusnk"
+        },
+        {
+            "name": "Rize - Kabahor Gölyayla Köyü 9",
+            "slug": "riz-kabahor9",
+            "url": "https://www.youtube.com/watch?v=HF4mO6iRg6Y"
+        },
+        {
+            "name": "İstanbul - Karaburun 1",
+            "slug": "ist-karaburun1",
+            "url": "https://www.youtube.com/watch?v=vTKfOFGIN5w"
+        },
+        {
+            "name": "İstanbul - Karaburun 2",
+            "slug": "ist-karaburun2",
+            "url": "https://www.youtube.com/watch?v=XEJ78w89reM"
+        },
+        {
+            "name": "Tokat - Erbaa Pınarbeyli 1",
+            "slug": "tjk-pinarbeyli1",
+            "url": "https://www.youtube.com/watch?v=9eFZQXi-Kgo"
+        },
+        {
+            "name": "Tokat - Erbaa Pınarbeyli 2",
+            "slug": "tjk-pinarbeyli2",
+            "url": "https://www.youtube.com/watch?v=exG6EJ86Pd0"
+        },
+        {
+            "name": "Tokat - Erbaa Pınarbeyli 3",
+            "slug": "tjk-pinarbeyli3",
+            "url": "https://www.youtube.com/watch?v=ljmpfHTQy_k"
+        },
+        {
+            "name": "Tokat - Erbaa Pınarbeyli 4",
+            "slug": "tjk-pinarbeyli4",
+            "url": "https://www.youtube.com/watch?v=aMHp3kK27VA"
+        },
+        {
+            "name": "Tokat - Erbaa Pınarbeyli 5",
+            "slug": "tjk-pinarbeyli5",
+            "url": "https://www.youtube.com/watch?v=luSvl3agB8k"
+        }
+    ]
+}
