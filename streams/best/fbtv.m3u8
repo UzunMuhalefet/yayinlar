@@ -1,3 +1,3 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=1400000,CODECS="avc1.42001e,mp4a.40.2",RESOLUTION=844x464
-https://live-b.cf.dmcdn.net/sec2(08EnxTQmeNfe2r_Wv_H85rAcbG1r92m4m_H-z8rM1hKKrIbHAAO68dmLIAU5kdRUKZIX7p2mE8sZ5P_IV2cveAOrP3QisHLE5gTzXcof8H8)/dm/3/x21oo10/s/live-2.m3u8#cell=lcfb
+#EXT-X-STREAM-INF:BANDWIDTH=480000,CODECS="avc1.42000c,mp4a.40.5",RESOLUTION=320x176
+https://live-b.cf.dmcdn.net/sec2(ak6hH5uuwzDrJIHZohLheDPrYtSGMwUUhTrvDTevlIconyRF7Iuw-KW0p0wg4s1noQ3dzFqCY6nFhxCUtGUItVkVyvqjlLLCnNgLsJE3ypo)/dm/3/x21oo10/s/live-1.m3u8#cell=lcfb
