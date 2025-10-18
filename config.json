@@ -36,6 +36,11 @@
             "url": "https://www.twitch.tv/safatv95"  
         },
         {
+            "name": "Serhat TV",
+            "slug": "serhattv",
+            "url": "https://www.twitch.tv/serhattvlive"
+        },
+        {
             "name": "Teleon",
             "slug": "teleon",
             "url": "https://kick.com/teleontv"  
