@@ -6,6 +6,11 @@
     },
     "channels": [
         {
+            "name": "Artı TV",
+            "slug": "artitv",
+            "url": "https://www.nimo.tv/artitv"
+        },
+        {
             "name": "Başka TV [Kick]",
             "slug": "baskatv-kick",
             "url": "https://kick.com/baska-tv"
@@ -39,6 +44,11 @@
             "name": "Serhat TV",
             "slug": "serhattv",
             "url": "https://www.twitch.tv/serhattvlive"
+        },
+        {
+            "name": "Sirius",
+            "slug": "Sirius",
+            "url": "https://www.nimo.tv/siriushd"  
         },
         {
             "name": "Teleon",
