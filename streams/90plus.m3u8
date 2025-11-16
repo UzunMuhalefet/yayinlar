@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4500000,CODECS="avc1.4d000a,mp4a.40.2",RESOLUTION=1920x1080
+https://livestreams.prdv3.dlivecdn.com/tv90plus/1763025679/src/live.m3u8
