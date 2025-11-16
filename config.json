@@ -6,6 +6,11 @@
     },
     "channels": [
         {
+            "name": "90 Plus",
+            "slug": "90plus",
+            "url": "https://dlive.tv/TV90PLUS"  
+        },
+        {
             "name": "Artı TV",
             "slug": "artitv",
             "url": "https://www.nimo.tv/artitv"
